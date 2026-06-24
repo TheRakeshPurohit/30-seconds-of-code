@@ -6,7 +6,7 @@
   "main": "index.js",
   "author": "30-seconds",
   "devDependencies": {
-    "@babel/core": "^7.20.2",
+    "@babel/core": "^7.29.6",
     "@babel/eslint-parser": "^7.20.2",
     "@babel/preset-env": "^7.20.2",
     "@jsiqle/core": "^2.0.0",
